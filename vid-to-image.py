@@ -1,6 +1,6 @@
 import cv2
 
-video_path = 'videos/IMG_0054.mp4'
+video_path = 'videos/IMG_0054.MP4'
 output_folder = 'frames/'
 
 cap = cv2.VideoCapture(video_path)
